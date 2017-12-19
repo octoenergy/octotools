@@ -1,5 +1,8 @@
 # octotools - Utilities for the UK energy market from Octopus Energy
 
+_This repo is deprecated. Its functionality has been merged into
+[xocto](https://github.com/octoenergy/xocto)_
+
 This repo groups together a bunch of useful utilities for the UK energy market, made with love by the Octopus Energy team.
 
 CI status:
